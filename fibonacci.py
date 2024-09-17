@@ -9,6 +9,7 @@ def Calculo_fibonacci(n):
 
 
 def main():
+    print("programa iniciado")
     numero = int(input("Coloque seu numero: "))
 
     if Calculo_fibonacci(numero):
