@@ -15,5 +15,5 @@ def main():
     verificar_letra_a(string)
     
     
-if __name__ == "__main__"
+if __name__ == "__main__":
     main()
