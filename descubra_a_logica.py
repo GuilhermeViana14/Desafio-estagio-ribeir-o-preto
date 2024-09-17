@@ -28,7 +28,16 @@ def elemento_e():
     return proximo
 
 
-def elemento_e():
+def elemento_f():
     sequencia = [2, 10, 12, 16, 17, 18, 19]
     proximo = sequencia[-1] + 1
     return proximo
+
+
+print(f"a) proximo numero", elemento_a())
+print(f"b) proximo numero", elemento_b())
+print(f"c) proximo numero", elemento_c())
+print(f"d) proximo numero", elemento_d())
+print(f"e) proximo numero", elemento_e())
+print(f"f) proximo numero", elemento_f())
+
