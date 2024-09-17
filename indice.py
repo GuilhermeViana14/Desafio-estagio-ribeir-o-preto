@@ -10,7 +10,7 @@ def main():
     while k < indice:
         k = k + 1
         soma = soma + k
-    print(soma)
+    print(f"Seu resultado é {soma}")
     
     
 if __name__ == "__main__":
